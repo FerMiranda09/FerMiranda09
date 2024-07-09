@@ -1,7 +1,7 @@
 # FerMirnanda09 👋
 <div align = "center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxuZmYyazVnZThpZzY1ZmVzbXQ0dzY0dTRjM3U2ZjB6MmJjOTkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"> 
-  Contactame: [Instagram](https://instagram.com/ferbb)
+
 
   <div align = "center">
      <h3>Herramientas que use</h3>
